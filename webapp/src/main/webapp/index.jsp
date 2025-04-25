@@ -1,7 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Bonamanabonamanabonamana</h1>
-    <h1>UwU UmiTaki TakiRaana sukisuki</h1>
+    <h1>Ichijitsusenshu</h1>
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
